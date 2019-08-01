@@ -1,0 +1,74 @@
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\ApplicationInsights.config
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\roslyn\csc.exe
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\roslyn\vbc.exe
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\roslyn\VBCSCompiler.exe
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\team3.dll.config
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\team3.dll
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\team3.pdb
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\GleamTech.Core.dll
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\GleamTech.DocumentUltimate.dll
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\Microsoft.AI.Web.dll
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\Microsoft.ApplicationInsights.dll
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\GleamTech.Core.xml
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\GleamTech.DocumentUltimate.xml
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\Microsoft.AI.Web.xml
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\Microsoft.ApplicationInsights.xml
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\obj\Debug\team3.dll
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\obj\Debug\team3.pdb
+C:\Users\wenmi\Documents\Year 2 Sem 1\EADPJ\team3\team3\obj\Debug\team3.csprojResolveAssemblyReference.cache
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\ApplicationInsights.config
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\roslyn\csc.exe
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\roslyn\vbc.exe
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\team3.dll.config
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\team3.dll
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\team3.pdb
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\GleamTech.Core.dll
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\GleamTech.DocumentUltimate.dll
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\Microsoft.AI.Web.dll
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\GleamTech.Core.xml
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\GleamTech.DocumentUltimate.xml
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\Microsoft.AI.Web.xml
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\obj\Debug\team3.csprojResolveAssemblyReference.cache
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\obj\Debug\team3.dll
+C:\Users\Ethel Lee\Desktop\team3_integrated_29_Jul_1257\team3\team3\obj\Debug\team3.pdb

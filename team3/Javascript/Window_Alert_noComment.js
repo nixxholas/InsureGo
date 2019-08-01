@@ -1,0 +1,1 @@
+﻿window.confirm("Customer you are trying to access have not been risk accessed. \nAre you sure you want to proceed?")

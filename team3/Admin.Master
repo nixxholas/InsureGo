@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="team3.Admin" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light rounded">
+        <div class="container">
+            <a class="navbar-brand active" href="#">InsureGo</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            <div class="collapse navbar-collapse justify-content-md-center">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <asp:HyperLink ID="HyperLink1" CssClass="nav-link" runat="server" NavigateUrl="~/New_Application.aspx">New Applications</asp:HyperLink>
+                    </li>
+                    <li class="nav-item">
+                        <asp:HyperLink ID="HyperLink2" CssClass="nav-link" runat="server" NavigateUrl="~/Claim_Application.aspx">Claim Applications</asp:HyperLink>
+                    </li>
+                    <li class="nav-item">
+                        <asp:HyperLink ID="HyperLink3" CssClass="nav-link" runat="server" NavigateUrl="~/All_Policies.aspx">Policies</asp:HyperLink>
+                    </li>
+                </ul>
+            </div>
+        </div>
+  </nav>
+    <asp:ContentPlaceHolder ID="Body_Content" runat="server"></asp:ContentPlaceHolder>
+    
+</body>
+</html>
